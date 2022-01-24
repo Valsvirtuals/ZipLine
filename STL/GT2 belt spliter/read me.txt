@@ -1,0 +1,12 @@
+assembly:
+
+-print the 2 parts
+-glue them together
+-stick a 9mm utility knife blade thought the slot, leading edge on the narrower side
+
+usage:
+
+-start the cut by sliting end of the belt in two
+-push the plit end thought the spliter jig
+-pull from the other side
+

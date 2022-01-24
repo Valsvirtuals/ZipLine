@@ -1,0 +1,20 @@
+for 1 glove
+
+what you need to get:
+- Nylon glove (need to be quite thin and fit thightly on your hand)
+-1x ESP32 Wroom DevKit Board
+-5x RV097NS B10K Potentiometers (with nut and washer)
+-5x 2.5x200mm zip ties (2.5x150mm is enough for smaller hands)
+
+what you need to print:
+-5x zip tip
+-9x zip guides (chose the right size for each knuckles and fingertips)
+
+-5x Finger tracking module:
+   -5x dovetail way    (print with ironing)
+   -5x dovetail slide  (print with ironing)
+   -5x frames
+   -5x z24 gears       (10mm/s print speed)
+
+-1x Back Hand Frame
+-1x Controller mount (windows mr or you can edit blank controller mount to fit your's)

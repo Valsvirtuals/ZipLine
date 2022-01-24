@@ -1,0 +1,6 @@
+-pla
+-0.2mm layer height
+-50% infill
+-2 perimeters
+-3 top/bot layer
+-tree support

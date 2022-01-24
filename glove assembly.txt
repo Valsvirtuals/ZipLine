@@ -1,0 +1,50 @@
+===============
+PART 1: Fingers
+---------------
+1- slide the zip ties on every "zip tips",the head of the zip tie should face down and snap in place,
+   once secured it will then stick out inside of the "zip tip", cut the exece of th"e head where it would interfeer with your finger.
+
+2- put on the glove and hot glue the "zip tip" to the end of one of the gloves finger.
+   after apllying the hot glue, wait to let the glue cool down a bit so that you don't burn yourself.
+
+3- slide on the first "zip guide", apply hot glue, close your fist for better alignement and then stick the "zip guide" well centred on the next knuckle,
+   do the same for the next "zip guide" (exept for the thumb). Repeat step 2&3 for each finger.
+
+==============================
+PART 2: Finger Tracking Module
+------------------------------
+4- "dovetail slide" sloud be able to slide freely in "dovetail way", if it is not make sure there is no defect on the sliding surfaces,
+   then sand the top of "dovetail way" with 180 grit(or higher) sand paper, a bit of graphite frome a pencil can help .
+
+5- super glue a small section of gt2 belt (3x35mm) onto the long side of the top of "dovetail slide"
+
+6- bolt the potetiometers onto "FTM frame", press "z24 gear" onto the shaft of the potentiometer, as shone in "description finger tracking module.png".
+   depending on your finger spacing, you might need to cut of the excess leght of the shaft on 3 potentiometer,
+   use a hacksaw and cut slowly as to not make any heat buildup.(it is also advised to lubricate your potentiometers before step 5)
+
+7- with the glove on, position "dovetail way"(with dovetail slide on it) on the back of the hand aligned to a finger.
+   the zip tie sould fit in the dovetail, in the track at the bottom of "dovetail slide".
+   close your fist, aligne the front of "dovetail slide" to the front of "dovetail way",
+   mark the zip tie at the back of "dovetail slide" (paint pen work well) and cut the zip tie to lengh.
+
+8- slide "FTM frame" onto the zip tie, make sure it is in the right orientation.
+   glue the end of the zip tie to "dovetail slide" with super glue , make sure it is in the right orientation.
+   wipe excess glue and wait for it to fully set.
+
+9-slide "dovetail way" onto "dovetail slide" and in position in "FTM frame".make sure the rack and pinion mesh properly and with a few drops
+  of super glue from the bottom, glue "dovetail way" onto "FTM frame" make sure to NOT glue "dovetail slide" for obvious reasons.
+
+10-with the glove on, fist closed, "dovetail slide" all the way forward, hot glue the finger tracking module inline with the finger it's attached to,
+   making sure there is enough space left for "back hand farme" Repeat step 7 to 10 for each finger.
+
+================
+Part 3: the rest
+----------------
+11-hot glue "back hand frame" to the back of the hand, slide the esp32 in place and secure it with a small blob of hot glue on two opposing corner,
+   snap on the controller mount
+
+12-wiring, should be the same as LucidVR prototype3, this is also when you can add your own joystick and buttons.
+
+13-lubrication, put a drop of light machine oil o the "dovetail way", "z24 gear" and "zip guide" and move things for a bit
+
+14-sideload the firmware onto the esp32 and enjoy your glove :)

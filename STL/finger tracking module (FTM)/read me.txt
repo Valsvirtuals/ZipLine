@@ -1,0 +1,3 @@
+dovetail parts (way & slide) sould be printed with cura ironing feature, or sililar from other slicer
+
+the gear sould be printed at around 10mm/s print speed to preserve details
