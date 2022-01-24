@@ -3,7 +3,7 @@ Cheap and relatively easy to build finger tracking glove for vr
 ![alt text](https://github.com/Valsvirtuals/Zipline/blob/main/ZipLine%20Banner.PNG?raw=true)
 
 this project uses the lucid glçove firmware: https://github.com/LucidVR/lucidgloves
-and the openglove driver: https://github.com/LucidVR/opengloves-driver https://store.steampowered.com/app/1574050/OpenGloves/
+and the openglove driver: https://store.steampowered.com/app/1574050/OpenGloves/
 
 
 
