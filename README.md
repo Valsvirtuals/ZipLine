@@ -15,5 +15,3 @@ you've been warned.
 i don't take any responsibility in your disapointment.
 
 if you have any question don't hesitate to come and aks on my discord server in the LimenVR > #harware-help channel
-
-discord server: https://discord.gg/g6XpeCnUfG
